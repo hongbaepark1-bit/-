@@ -1,0 +1,13 @@
+{
+  "name": "legal-analysis-server",
+  "version": "1.0.0",
+  "description": "농어촌·공유수면·간척지 법령분석시스템 로컬 서버",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev":   "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0"
+  }
+}
